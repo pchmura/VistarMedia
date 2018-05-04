@@ -32,3 +32,8 @@ Deploy with ```yarn install && yarn start``` or ```npm install && npm start```
 
 Run tests with ```yarn test``` or ```npm test```
 
+
+Deployed at https://vistar-media.herokuapp.com/ (free tier, may take a while to start up)
+
+
+
