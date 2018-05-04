@@ -28,5 +28,7 @@ ___
 
 ## How to run
 
-Deploy with yarn install && yarn start or npm install && npm start
+Deploy with ```yarn install && yarn start``` or ```npm install && npm start```
+
+Run tests with ```yarn test``` or ```npm test```
 
